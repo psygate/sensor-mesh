@@ -1,0 +1,10 @@
+hub:
+  print_records: true
+  sample_spacing: 1
+  samples: 3
+  average_samples: true
+  upload: true
+  database_name: home
+  collection_name: sensors
+  sensor_id: pi4
+  logfile: hub.log

@@ -1,0 +1,6 @@
+dnspython==2.3.0
+pymongo==4.3.3
+PyYAML==6.0
+sensorhub==2.0.3
+smbus2==0.4.2
+tomli==2.0.1
